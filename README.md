@@ -18,7 +18,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjzyy&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjzyy&theme=maroongold&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />
       </a>
     </td>
   </tr>
