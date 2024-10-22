@@ -25,9 +25,9 @@
 </table>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xjzyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xjzyy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjzyy&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjzyy&theme=dark&hide_border=false&hide=shell,hlsl,shaderlab,glsl,qml,lua&langs_count=20" />-->
 
 
 <!--
